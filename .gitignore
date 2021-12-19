@@ -112,3 +112,6 @@ node_modules/
 # R command history
 .Rhistory
 
+/config.py
+.config.py
+config.py
